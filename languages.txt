@@ -1,0 +1,53 @@
+http://hammerprinciple.com/therighttool
+
+ActionScript
+Ada
+Agda
+APL
+Assembler
+AWK
+C
+C#
+C++
+Clojure
+Cobol
+Common Lisp
+Coq
+D
+Delphi
+Eiffel
+ELisp
+Erlang
+F#
+Factor
+Forth
+Fortran
+Go
+Groovy
+Haskell
+Haxe
+Io
+J
+Java
+Javascript
+Lua
+Mathematica
+Matlab
+Mozart-Oz
+Objective C
+O'Caml
+Pascal
+Perl
+PHP
+Prolog
+Python
+R
+REBOL
+Ruby
+Scala
+Scheme
+Shell
+Smalltalk
+Standard ML
+TCL
+Visual Basic
